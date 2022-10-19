@@ -195,11 +195,12 @@ padding-bottom: 50px;
 }
 
 .col {
-    margin: 4vh;
+   padding: 2vh;
+   padding-bottom: 8vh;
 }
 
 .col img {
-    padding: 4vh;
+    padding-bottom: 4vh;
     border-radius: 50px;
 
 }
